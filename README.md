@@ -1,1 +1,1 @@
-# javascrip
+JavaScript is most widely used now a days and most preferable language for development as front-end as well back-end(Nodejs),if we want to learn JavaScript we need to understand the basics of JavaScript and ECMAScript(ES), ECMAScript is an simple standard for JavaScript and adding new features to JavaScript
