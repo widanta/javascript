@@ -5,11 +5,9 @@
 JavaScript is most widely used now a days and most preferable language for development as front-end as well back-end(Nodejs),if we want to learn JavaScript we need to understand the basics of JavaScript and ECMAScript(ES), ECMAScript is an simple standard for JavaScript and adding new features to JavaScript
 
 # Credit 
-Playlist : https://youtu.be/CleFk3BZB3g?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p <br>
-https://youtu.be/Phn2eN6j0pg?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr <br>
-https://youtu.be/J0a6YUUAsd4?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa <br>
-https://youtu.be/-J372iDFU8Y?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k <br>
-https://youtu.be/qCMLP6GtyBc?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw
+Playlist : https://youtu.be/RUTV_5m4VeI?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w <br>
+https://youtu.be/aT60R1cySLM?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3 <br>
+https://youtu.be/RwT41El778A?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46- <br>
 <br>
 
 @sandhikagalih
