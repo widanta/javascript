@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "Widanta",
+    "nis": "1111",
+    "email": "widanta@gmail.com",
+    "jurusan": "Teknik Informatika",
+    "idGuruWali": 1
+  },
+  {
+    "nama": "Danta",
+    "nis": "2222",
+    "email": "danta@gmail.com",
+    "jurusan": "Teknik Mesin",
+    "idGuruWali": 2
+  },
+  {
+    "nama": "Tata",
+    "nis": "3333",
+    "email": "tata@gmail.com",
+    "jurusan": "Teknik Pembangunan",
+    "idGuruWali": 2
+  }
+]
